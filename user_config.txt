@@ -1,7 +1,7 @@
 {
 "username":"xxwllq",  
 "password":"Xxwllq@1234567890",    
-"cookie":["PHPSESSID","https://www.butian.net/Loo/submit"],
+"cookie":["cookies","https://www.butian.net/Loo/submit?cid=60993"],
 "appkey":"乐信集团",
 "key":"www.lexinfintech.com"
 }
